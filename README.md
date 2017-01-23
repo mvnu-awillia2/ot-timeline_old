@@ -3,3 +3,5 @@
 This is a timeline of the various kings of Isreal and Judah found in 1 & 2 Kings
 
 You can view the timeline at: http://mvnu-awillia2.github.io/ot-timeline/
+
+Using template found at: https://codyhouse.co/gem/horizontal-timeline/
